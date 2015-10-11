@@ -13,7 +13,7 @@ body {
 
 
 
-#gradient{
+#header{
   height:100vh;
   width: 100vw;
   background-color: #000000;
@@ -23,7 +23,7 @@ body {
   
  
 }
-#headercontent{
+#gradient{
  height:100vh;
  width: 100vw;
  padding: 0px;
