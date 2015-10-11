@@ -40,7 +40,7 @@ body {
  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: 100% auto;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
