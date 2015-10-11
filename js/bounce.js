@@ -30,5 +30,5 @@ function mover(el, bounding) {
 }
 
 setTimeout(function() {
-    mover($('.bouncer')[0], $('#gradient')[0]);
+    mover($('.bouncer')[0], $('.gradient')[0]);
 }, 50);
