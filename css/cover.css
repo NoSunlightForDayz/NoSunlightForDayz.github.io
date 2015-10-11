@@ -28,6 +28,7 @@ html,
 body {
   height: 100%;
   background-color: #fff;
+  margin-top: 0px;
  
   
   
@@ -67,8 +68,8 @@ body {
  * Header
  */
 .masthead-brand {
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .masthead-nav > li {
