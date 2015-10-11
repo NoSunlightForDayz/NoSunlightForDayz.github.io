@@ -111,6 +111,9 @@ body {
   background-size: 100% 500px;
   background-color: #000000;
 }
+.headercontent{
+  margin: 0 auto; width: 500px;
+}
 /*
  * Cover
  */
