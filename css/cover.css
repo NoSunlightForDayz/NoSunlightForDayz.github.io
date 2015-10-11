@@ -19,14 +19,14 @@ body {
   margin: 0px;
   padding: 0px;
   overflow: hidden;
-  position: fixed;
+  position: absolute;
  
 }
 #headercontent{
  margin: 0px auto;width: 100vh;
  padding: 0px;
  background-color: #fff;
- position: fixed;
+ position: absolute;
 
 
 
