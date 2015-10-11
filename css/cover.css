@@ -40,7 +40,7 @@ body {
  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: 500px auto;
+  background-size: 100% 500px;
   background-repeat: no-repeat;
 }
 
