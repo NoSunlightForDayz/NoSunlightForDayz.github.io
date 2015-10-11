@@ -11,17 +11,19 @@ body {
   
 }
 
-
+#gradient{
+  height:100vh;
+  width: 100vw;
+  background-color: #000000;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
 
 
   
  
 }
-#gradient{
- height:100vh;
- width: 100vw;
- padding: 0px;
- margin: 0px;
+
 
  
  #testdiv{
