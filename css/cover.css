@@ -107,11 +107,11 @@ body {
     float: right;
   }
 }
-.header{
+#header{
   background-size: 100% 500px;
   background: #000000;
 }
-.headercontent{
+#headercontent{
   margin: 0 auto; width: 500px;
  
 }
