@@ -31,6 +31,9 @@ body {
   background-color: #fff;
  }
  
-
+.bouncer {
+    position: absolute;
+    width: 200px;
+}
 
 
