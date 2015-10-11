@@ -113,13 +113,13 @@ body {
 #header{
   background-size: 100% 500px;
   background: #000000;
-  margin: 0;
-   padding: 0;
+  margin: 0px;
+   padding: 0px;
  
 }
 #headercontent{
- margin: 0 auto;width: 100%;
- padding: 0;
+ margin: 0px auto;width: 100%;
+ padding: 0px;
  
 }
 /*
