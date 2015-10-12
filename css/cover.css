@@ -25,10 +25,9 @@ body {
 #headertext{
  color:#fff;
  font-size: 80px;
-@font-face {
-    font-family: myFirstFont;
+font-family: "Comic Sans MS", cursive, sans-serif;
 
-}
+
 }
  
  #testdiv{
