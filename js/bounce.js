@@ -40,4 +40,4 @@ function calcSpeed(prev, next) {
 
     return speed;
 
-}
+};
