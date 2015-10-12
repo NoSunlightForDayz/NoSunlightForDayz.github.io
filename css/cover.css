@@ -25,7 +25,10 @@ body {
 #headertext{
  color:#fff;
  font-size: 80px;
- font-family: myFirstFont;
+@font-face {
+    font-family: myFirstFont;
+
+}
 }
  
  #testdiv{
