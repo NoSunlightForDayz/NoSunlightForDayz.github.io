@@ -34,7 +34,7 @@ function calcSpeed(prev, next) {
     
     var greatest = x > y ? x : y;
     
-    var speedModifier = .05;
+    var speedModifier = .07;
 
     var speed = Math.ceil(greatest/speedModifier);
 
