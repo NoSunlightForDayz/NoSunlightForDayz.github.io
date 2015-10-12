@@ -28,7 +28,8 @@ overflow: auto;
  }
  
 div.a {
-
+height: 300px;
+width: 300px;
 position:fixed;
 
 
