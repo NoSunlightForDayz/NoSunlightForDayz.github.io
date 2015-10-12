@@ -21,7 +21,7 @@ function animateDiv(){
     var oldq = $('.a').offset();
     var speed = calcSpeed([oldq.top, oldq.left], newq);
     
-    $('.a').animate({ top: newq[0], left: newq[1] }, speed, function(){
+    $('.a').animate({height: '-=1'},1,'linear').animate({ top: newq[0], left: newq[1] }, speed, function(){
       animateDiv();        
     });
     
